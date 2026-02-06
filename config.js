@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "WOW ! Je suis vraiment le mec le plus chanceux de l'univers ! 🎉💝💖💝💓",
-        message: "Viens maintenant chercher ton cadeau : un gros câlin et un énorme bisou !",
+        message: "Bravo, tu m'as enfin attrapé.🙃 Maintenant j'ai hate de te voir en vrai",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dy6ofqmfi/raw/upload/v1770388441/watch_dgzaqq.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dy6ofqmfi/video/upload/v1770391374/Hollow_Coves_Coastline_Unofficial_Music_Video_xtbvp7.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
